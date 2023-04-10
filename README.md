@@ -28,5 +28,5 @@ Next up I added the forecast component. This looked quite intimidating at first 
 
 Debbie Dann @debbie_digital
 
-Project link: [React weather app](https://ecstatic-swartz-7b404c.netlify.app/)
+Project link: [React weather app](https://alemosmusi.github.io/react-weather-app/)
 
