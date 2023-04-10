@@ -4,11 +4,13 @@
 
 ## About The Project
 
-For SheCodes React Workshop, we went through the process of creating a Weather App. It started with the design and creating a wireframe of how I wanted it to look. The workshop led you step by step how to create the app, but the design they focused on was very different to mine. I found I came across challenges where I needed to create different components for sections of my page and figure out for myself how they worked together. Moving away from their design helped me to learn more and deepen my understanding of React.
+This project was developed using React and involved creating a weather app from scratch. One of the main challenges I faced was figuring out how to create different components for different sections of the page and make them work together seamlessly.
 
-I started with the search functionality. I learnt how to get the current geolocation to create a current location button. This search result was then used to call the API to find the current weather for that location.
+The first task was to implement the search functionality, which involved learning how to retrieve the user's current geolocation and using it to find the weather data for their location through an API call.
 
-Next up I added the forecast component. This looked quite intimidating at first but learning how components could be reused and I mapped the daily forecast to give 6 days of weather. For this section I used a different API call to allow for multiple days to be retrieved. The API used for current forecast only pulled in one day of data.
+Next, I added a forecast component to the app. Initially, this was quite daunting, but I discovered how to reuse components and utilized this knowledge to map the daily forecast and display the weather data for 6 days. To achieve this, I used a different API call than the one used for the current forecast, which only provided data for one day.
+
+Overall, the project was a great opportunity to deepen my understanding of React and develop my skills in component creation and API integration. In the future, I plan to improve the app further by adding more features, such as automatic dark mode toggling and spell-checking for the search bar.
 
 ## Built With
 
