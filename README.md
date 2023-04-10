@@ -26,7 +26,8 @@ Next up I added the forecast component. This looked quite intimidating at first 
 
 ## Contact
 
-Debbie Dann @debbie_digital
 
+
+Contact link: [Likedin](https://www.linkedin.com/in/agu-lemos-fullstack-web-development/)
 Project link: [React weather app](https://alemosmusi.github.io/react-weather-app/)
 
